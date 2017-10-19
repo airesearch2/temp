@@ -1,6 +1,6 @@
 public class fs {
     static final Random rng = new Random();
-    static privz ArrayList<Card> cards;
+    static privzw ArrayList<Card> cards;
     static public Player[] Players;
 
     public static Card draw()
