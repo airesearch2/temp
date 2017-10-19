@@ -1,5 +1,5 @@
 public class fs {
-    static final Random rng = new Random();
+
     static private ArrayList<Card> cards;
     static public Player[] Players;
 

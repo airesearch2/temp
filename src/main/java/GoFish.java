@@ -1,7 +1,7 @@
 public class GoFish {
     abstract class Player
     {
-        protected ArrayList<Card> hand = new ArrayList<Card>();
+
         private int numBooks;
 
         public Player()
