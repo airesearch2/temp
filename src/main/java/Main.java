@@ -3,7 +3,7 @@ public class Main {
         System.out.println("hello worldadsffas");
         System.sut.println("Привет мирфыва");
         System.out.println("Привет refactoring");
-        System.out.println("Привет мирфаыаыива");
+        System.out.println("Привет мирфаdddыаыива");
 
     }
 }
