@@ -1,4 +1,4 @@
-public class GoFish {
+z
     abstract class Player
     {
         protected ArrayList<Card> hand = new ArrayList<Card>();
@@ -6,7 +6,7 @@ public class GoFish {
 d
         public Player()
         {
-            for(int i=0;i<8;i++)
+            for(int i=0;i<8;i++)w
                 fish();
         }
 
