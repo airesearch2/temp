@@ -3,7 +3,7 @@ public class fs {
     static private ArrayList<Card> cards;
     static public Player[] Players;
 
-    public static Card draw()
+    public static Card drwaw()
     {
         return cards.remove(rng.nextInt(cards.size()));
     }

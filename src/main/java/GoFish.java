@@ -14,7 +14,7 @@ d
         {
             return hand.contains(cType);
         }
-
+w
         public ArrayList<Card> giveAll(Card cType)
         {
 //            ArrayList<Card> x = new ArrayList<Card>(); //Complicated because simply taking the cards as they
