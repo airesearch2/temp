@@ -7,7 +7,7 @@ public class fs {
     {
         return cards.remove(rng.nextInt(cards.size()));
     }
-
+f
     public static int deckSize()
     {
         return cards.size();
