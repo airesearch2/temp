@@ -24,3 +24,4 @@ w
         Player ai = new AIPlayer();
         Players = new Player[] {h, ai};
 }
+s
