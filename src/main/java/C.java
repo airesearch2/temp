@@ -1,4 +1,4 @@
-public class C {
+public class C {merg
     public static void main(String[] args) {
         System.out.println("hello worldadsffas");
         System.sut.println("Привет мирфыва");
