@@ -14,8 +14,8 @@ f
     }
 
     public static void main(String[] args)
-    {
-
+    {a
+asdasd
         cards = new ArrayList<Card>();
         for(int i=0;i<4;i++)
             for(Card c: Card.values())
