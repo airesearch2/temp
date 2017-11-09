@@ -1,4 +1,4 @@
-public class GoFish {
+public class B {
     abstract class Player
     {
 
@@ -31,7 +31,7 @@ w
             int tmp = 0;
             if (this instanceof HumanPlayer)
                 tmp = 1;
-            Player other = GoFish.Players[tmp];
+            Player other = B.Players[tmp];
 
             //Used for the computer's strategy//
             if (tmp==1)

@@ -1,4 +1,4 @@
-public class fs {
+public class A {
 
     static private ArrayList<Card> cards;
     static public Player[] Players;
