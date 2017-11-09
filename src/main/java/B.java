@@ -1,4 +1,4 @@
-public class B {asdf
+public class B {asdfwwwwwwwwwwwwwwwwwwwwwwwwww
     abstract class Player
     {
 

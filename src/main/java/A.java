@@ -1,5 +1,5 @@
 public class A {
-
+qqqqqqqqqqqqqqqqqqq
     static private ArrayList<Card> cards;
     static public Player[] Players;
 
